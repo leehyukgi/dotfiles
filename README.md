@@ -1,5 +1,6 @@
-README
+Dotfiles
 ======
-###1.First
-##2.Second
-dotfiles
+###How to make simlink
+```
+ln -sf ~/.dotfiles/.vimrc ~/.vimrc
+```
